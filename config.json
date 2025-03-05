@@ -1,0 +1,14 @@
+{
+	"experiment" : {
+		"name" : "MoodControlTask",
+		"fullpath" : "jiayuhuang/moodcontroltask"
+	},
+
+	"pavlovia" : {
+		"URL" : "https://pavlovia.org/"
+	},
+
+	"gitlab" : {
+		"projectId" : 448745
+	}
+}
